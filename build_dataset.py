@@ -13,9 +13,9 @@ tweet = []
 date = []
 
 
-directories = ['Corruption/Bfr elec 1_jan_to_6_apr', 'Corruption/Electn time 7_aprl_to_12_may', 'Corruption/Aftr elctn 13_may_to_31_aug',
-           'Development/before 1_jan_to_6_april', 'Development/elec 7_apr_to_12_may', 'Development/after 13_may_to_31_aug',
-           'India Economy/Bfr elec 1_jan_to_6_apr', 'India Economy/Electn time 7_aprl_to_12_may', 'India Economy/Aftr elctn 13_may_to_31_aug']
+directories = ['dataset/Corruption/Bfr elec 1_jan_to_6_apr', 'dataset/Corruption/Electn time 7_aprl_to_12_may', 'dataset/Corruption/Aftr elctn 13_may_to_31_aug',
+           'dataset/Development/before 1_jan_to_6_april', 'dataset/Development/elec 7_apr_to_12_may', 'dataset/Development/after 13_may_to_31_aug',
+           'dataset/India Economy/Bfr elec 1_jan_to_6_apr', 'dataset/India Economy/Electn time 7_aprl_to_12_may', 'dataset/India Economy/Aftr elctn 13_may_to_31_aug']
 
 
 def json2csv(data_obj):
